@@ -11,3 +11,5 @@
 #git commit -m "Message"
 #git remote -v
 #git remote add origin
+#git push url://repo.git
+#git pull url://repo.git
