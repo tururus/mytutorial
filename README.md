@@ -8,4 +8,6 @@
 #touch
 #git status
 #git add -A
-#
+#git commit -m "Message"
+#git remote -v
+#git remote add origin
