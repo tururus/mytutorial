@@ -1,9 +1,9 @@
 # mytutorial
 #pierwsza linijka kodu
 
-#Po kolei do zrobienia
+<h1>Po kolei do zrobienia</h1>
 #git-bash
-#i komendy po kolei
+<h2>i komendy po kolei</h2>
 #git init
 #touch
 #git status
