@@ -13,3 +13,5 @@
 #git remote add origin
 #git push url://repo.git
 #git pull url://repo.git
+
+#to chyba wszystkie potrzebne
